@@ -9,6 +9,6 @@ STK toolhead allow the installation of SHT42/EBB42 toolboards only.><br/>
 If you want to run fast, just try it.<br/><br/>
 <B>Whit this mod you will able to use all the build plate on X axis, but you will lose about 8mm on Y axis</B><br/>
  
-![Alt text](./Images/skt_tap.png)<br/>
+![Alt text](./Images/skt_tap.jpg)<br/>
 
  
